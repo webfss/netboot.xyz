@@ -117,7 +117,7 @@ releases:
     base_dir: centos
     enabled: true
     menu: linux
-    mirror: http://mirror.centos.org
+    mirror: https://ftp.sjtu.edu.cn
     name: CentOS
     versions:
     - code_name: 8.2.2004
